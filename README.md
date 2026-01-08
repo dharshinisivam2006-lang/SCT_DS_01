@@ -3,7 +3,7 @@ Create a bar chart  or histogram to visualize the distribution of a categorical 
 ## Output
 
 ![Bar Chart](download.png)
-## Code
+
 ## Python Code (Google Colab)
 
 ```python
@@ -17,6 +17,7 @@ plt.xlabel('Gender')
 plt.ylabel('Count')
 plt.title('Gender Distribution of Population')
 plt.show()
+
 
 The bar chart was created using Python in Google Colab.
 The complete implementation is available in the uploaded notebook file.
