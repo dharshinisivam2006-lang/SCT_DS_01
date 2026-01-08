@@ -18,6 +18,5 @@ plt.ylabel('Count')
 plt.title('Gender Distribution of Population')
 plt.show()
 
-
 The bar chart was created using Python in Google Colab.
 The complete implementation is available in the uploaded notebook file.
