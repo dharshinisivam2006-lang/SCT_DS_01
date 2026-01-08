@@ -3,7 +3,7 @@ Create a bar chart  or histogram to visualize the distribution of a categorical 
 
 # SCT_DS_01
 
-## Task 01: Population Distribution Visualization
+Population Distribution Visualization
 
 This project was completed as part of the SkillCraft Technology Data Science Internship.
 
