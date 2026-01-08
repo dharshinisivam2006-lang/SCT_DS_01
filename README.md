@@ -1,7 +1,7 @@
 # SCT_DS_01
 Create a bar chart  or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or  genders in a population
 
-Population Distribution Visualization
+#Task 1 : population Distribution Visualization
 
 This project was completed as part of the SkillCraft Technology Data Science Internship.
 
