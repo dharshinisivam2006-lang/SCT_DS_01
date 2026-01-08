@@ -3,3 +3,7 @@ Create a bar chart  or histogram to visualize the distribution of a categorical 
 ## Output
 
 ![Bar Chart](download.png)
+## Code
+
+The bar chart was created using Python in Google Colab.
+The complete implementation is available in the uploaded notebook file.
